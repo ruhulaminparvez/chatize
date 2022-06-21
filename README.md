@@ -3,7 +3,7 @@ Chat Application using Django and Ajax 🙅‍♂️
 
 
 ## Check Live Preview 🖱️
-- [Click Here - Chatize Website](chatize.pythonanywhere.com)
+- [Click Here - Chatize Website](https://chatize.pythonanywhere.com/)
 
 
 ## ScreenShots 📸
