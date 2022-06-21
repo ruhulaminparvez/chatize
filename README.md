@@ -8,17 +8,17 @@ Chat Application using Django and Ajax 🙅‍♂️
 
 ## ScreenShots 📸
 
-### Join A Room
+#### Join A Room
 <p align="left">
-  <img width="780" src="readme_img/2.png">
+  <img width="780" src="readme_img/create-channel.png">
 </p>
 
-### Chat with Others
+#### Chat with Others
 <p align="left">
   <img width="780" src="readme_img/3.png">
 </p>
 
-### Admin Panel Store Chats
+#### Admin Panel Store Chats
 <p align="left">
   <img width="780" src="readme_img/4.png">
 </p>
